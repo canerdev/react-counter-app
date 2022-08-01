@@ -1,0 +1,12 @@
+.card {
+    background-color: black;
+    padding: 50px 0;
+    color: white;
+}
+
+.number {
+    font-size: 2rem;
+    padding: 25px;
+    display: inline-block;
+    margin: 0;
+}

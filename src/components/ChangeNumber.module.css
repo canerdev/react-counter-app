@@ -1,0 +1,12 @@
+.btn_group {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 1rem;
+    width: 60%;
+    margin: 0 auto;
+    gap: 5px;
+}
+
+.btn_group :last-child {
+    grid-column: 1 / -1;
+}
